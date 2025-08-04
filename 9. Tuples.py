@@ -50,3 +50,25 @@ fruits = ("apple", "mango", "papaya", "pineapple", "cherry")
 print(green)
 print(tropic)
 print(red)
+
+# Loop tupels
+thistuple = ("apple", "banana", "cherry")
+for x in thistuple:
+    print(x)
+for i in range(len(thistuple)):
+    print(thistuple[i])
+
+thistuple = ("apple", "banana", "cherry")
+i=0
+while i<len(thistuple):
+    print(thistuple[i])
+    i = i+1
+
+#Multiply tuples
+thistuple = ("apple", "banana", "cherry")
+op = thistuple *2
+print(op)
+
+# count()	Returns the number of times a specified value occurs in a tuple
+# index()	Searches the tuple for a specified value and returns the position of where it was found
+
