@@ -22,7 +22,7 @@ for x in range(1, 6, 2):
    print(x)
 
 for x in range(6):
-  print(x)
+  print(x) 
   if x == 3: 
     break  
 else:

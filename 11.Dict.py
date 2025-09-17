@@ -19,7 +19,7 @@ print(x)
 #Get keys
 x=thisdict.keys()
 print(x)
-
+ 
 car = {
 "brand": "Ford",
 "model": "Mustang",

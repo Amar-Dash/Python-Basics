@@ -28,7 +28,7 @@ print("\"Amar\"")
 # endswith()	Returns true if the string ends with the specified value
 # expandtabs()	Sets the tab size of the string
 # find()	Searches the string for a specified value and returns the position of where it was found
-# format()	Formats specified values in a string
+# format()	Formats specified values in a string 
 # format_map()	Formats specified values in a string
 # index()	Searches the string for a specified value and returns the position of where it was found
 # isalnum()	Returns True if all characters in the string are alphanumeric

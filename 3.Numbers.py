@@ -13,7 +13,7 @@ print(type(x), type(y), type(z))
 
 #Int - Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.
 
-#Float - Float, or "floating point number" is a number, positive or negative, containing one or more decimals.Float can also be scientific numbers with an "e" to indicate the power of 10.
+#Float - Float, or "floating poi nt number" is a number, positive or negative, containing one or more decimals.Float can also be scientific numbers with an "e" to indicate the power of 10.
 
 #Complex - Complex numbers are written with a "j" as the imaginary part
 

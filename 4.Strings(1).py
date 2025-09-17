@@ -31,7 +31,7 @@ print(x, len(x))
 #String Meathods
 
 #Upper Case
-print(op.upper())
+print(op.upper()) 
 #Lower Case
 print(op.lower())
 #Remove Whitespaces

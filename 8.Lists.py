@@ -24,7 +24,7 @@ print(mylist[1])
 #Here also we can do indexing just like the strings. So no need to do it here as it will waste my time so ......
 
 # Existance
-if 'apple' in mylist:
+if 'apple' in mylist: 
     print('Yes')
 
 #Change the value

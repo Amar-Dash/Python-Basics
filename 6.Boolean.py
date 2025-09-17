@@ -19,4 +19,4 @@ class myclass():
         return 0
 
 myop = myclass()
-print(bool(myop))
+print(bool(myop)) 

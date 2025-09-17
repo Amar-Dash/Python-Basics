@@ -18,7 +18,7 @@ print("banana" in thisset)
 #By add()
 thisset.add("Amar")
 print(thisset)
-
+ 
 #By update
 tropical = {'op', 'shopi'}
 thisset.update(tropical)

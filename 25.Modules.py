@@ -10,4 +10,4 @@ print(my.welcome('Amar'))
 import platform
 
 x = dir(platform)
-print(x)
+print(x) 

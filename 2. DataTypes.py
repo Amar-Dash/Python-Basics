@@ -17,4 +17,4 @@ x = None
 
 #If I want to use specific data instead of default I have to use constructor
 x = str(2)
-print(type(x))
+print(type(x)) 

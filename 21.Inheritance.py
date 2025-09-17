@@ -33,7 +33,7 @@ print(z.graduationyear)
 
 class Student3(Person):
     def __init__(self,name, age, Gyear):
-        self.name=name
+        self.name=name 
         self.age=age
         self.Gyear=Gyear
     

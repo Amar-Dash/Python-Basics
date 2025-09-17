@@ -14,7 +14,7 @@ i = 0
 while i < 6:
   i += 1
   if i == 3:
-    continue #Stops the current iteration here 3
+    continue #Stops the current iteration here 3 
   print(i)
 
 i = 1

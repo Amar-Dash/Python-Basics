@@ -31,7 +31,7 @@ print(next(myit))
 # The __next__() method also allows you to do operations, and must return the next item in the sequence.
 
 class Mynum:
-    def __iter__(self):
+    def __iter__(self): 
         self.a=1
         return self
 

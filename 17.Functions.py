@@ -25,7 +25,7 @@ fruits = ["apple", "banana", "cherry"]
 my_function(fruits)
 
 def tri_recursion(k):
-  if(k > 0):
+  if(k > 0): 
     result = k + tri_recursion(k - 1)
     print(result)
   else:
